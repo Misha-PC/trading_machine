@@ -16,7 +16,6 @@ private:
 
     uint16_t caseName [10][10];
     uint16_t casePrice[10][10];
-    uint16_t gitTest = 54;
     
 
 public:
