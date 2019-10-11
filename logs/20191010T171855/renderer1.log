@@ -1,0 +1,147 @@
+[2019-10-10 17:21:24.638] [renderer1] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/misha/Documents/PlatformIO/Projects/TorgApp/User'
+[2019-10-10 17:21:27.106] [renderer1] [error] connect ENOENT /home/misha/Documents/PlatformIO/Projects/TorgApp/1.39.0-shared.sock: Error: connect ENOENT /home/misha/Documents/PlatformIO/Projects/TorgApp/1.39.0-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1113:14)
+[2019-10-10 17:21:29.066] [renderer1] [error] connect ENOENT /home/misha/Documents/PlatformIO/Projects/TorgApp/1.39.0-shared.sock: Error: connect ENOENT /home/misha/Documents/PlatformIO/Projects/TorgApp/1.39.0-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1113:14)
+[2019-10-10 17:21:29.343] [renderer1] [error] Error: connect ENOENT /home/misha/Documents/PlatformIO/Projects/TorgApp/1.39.0-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1113:14)
+[2019-10-10 17:26:29.344] [renderer1] [error] Error: connect ENOENT /home/misha/Documents/PlatformIO/Projects/TorgApp/1.39.0-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1113:14)
+[2019-10-10 17:31:29.345] [renderer1] [error] Error: connect ENOENT /home/misha/Documents/PlatformIO/Projects/TorgApp/1.39.0-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1113:14)
+[2019-10-10 17:36:29.346] [renderer1] [error] Error: connect ENOENT /home/misha/Documents/PlatformIO/Projects/TorgApp/1.39.0-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1113:14)
+[2019-10-10 17:41:30.194] [renderer1] [error] Error: connect ENOENT /home/misha/Documents/PlatformIO/Projects/TorgApp/1.39.0-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1113:14)
+[2019-10-10 17:46:30.195] [renderer1] [error] Error: connect ENOENT /home/misha/Documents/PlatformIO/Projects/TorgApp/1.39.0-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1113:14)
+[2019-10-10 17:51:30.196] [renderer1] [error] Error: connect ENOENT /home/misha/Documents/PlatformIO/Projects/TorgApp/1.39.0-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1113:14)
+[2019-10-10 17:56:30.229] [renderer1] [error] Error: connect ENOENT /home/misha/Documents/PlatformIO/Projects/TorgApp/1.39.0-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1113:14)
+[2019-10-10 18:01:30.231] [renderer1] [error] Error: connect ENOENT /home/misha/Documents/PlatformIO/Projects/TorgApp/1.39.0-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1113:14)
+[2019-10-10 18:06:30.233] [renderer1] [error] Error: connect ENOENT /home/misha/Documents/PlatformIO/Projects/TorgApp/1.39.0-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1113:14)
+[2019-10-10 18:11:30.235] [renderer1] [error] Error: connect ENOENT /home/misha/Documents/PlatformIO/Projects/TorgApp/1.39.0-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1113:14)
+[2019-10-10 18:16:30.235] [renderer1] [error] Error: connect ENOENT /home/misha/Documents/PlatformIO/Projects/TorgApp/1.39.0-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1113:14)
+[2019-10-10 18:21:30.237] [renderer1] [error] Error: connect ENOENT /home/misha/Documents/PlatformIO/Projects/TorgApp/1.39.0-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1113:14)
+[2019-10-10 18:26:30.239] [renderer1] [error] Error: connect ENOENT /home/misha/Documents/PlatformIO/Projects/TorgApp/1.39.0-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1113:14)
+[2019-10-10 18:31:30.240] [renderer1] [error] Error: connect ENOENT /home/misha/Documents/PlatformIO/Projects/TorgApp/1.39.0-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1113:14)
+[2019-10-10 18:36:30.241] [renderer1] [error] Error: connect ENOENT /home/misha/Documents/PlatformIO/Projects/TorgApp/1.39.0-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1113:14)
+[2019-10-10 18:41:30.260] [renderer1] [error] Error: connect ENOENT /home/misha/Documents/PlatformIO/Projects/TorgApp/1.39.0-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1113:14)
+[2019-10-10 18:46:30.261] [renderer1] [error] Error: connect ENOENT /home/misha/Documents/PlatformIO/Projects/TorgApp/1.39.0-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1113:14)
+[2019-10-11 00:44:43.822] [renderer1] [error] Error: connect ENOENT /home/misha/Documents/PlatformIO/Projects/TorgApp/1.39.0-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1113:14)
+[2019-10-11 00:49:43.824] [renderer1] [error] Error: connect ENOENT /home/misha/Documents/PlatformIO/Projects/TorgApp/1.39.0-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1113:14)
+[2019-10-11 00:54:43.840] [renderer1] [error] Error: connect ENOENT /home/misha/Documents/PlatformIO/Projects/TorgApp/1.39.0-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1113:14)
+[2019-10-11 00:59:43.840] [renderer1] [error] Error: connect ENOENT /home/misha/Documents/PlatformIO/Projects/TorgApp/1.39.0-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1113:14)
+[2019-10-11 01:04:43.841] [renderer1] [error] Error: connect ENOENT /home/misha/Documents/PlatformIO/Projects/TorgApp/1.39.0-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1113:14)
+[2019-10-11 01:09:43.843] [renderer1] [error] Error: connect ENOENT /home/misha/Documents/PlatformIO/Projects/TorgApp/1.39.0-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1113:14)
+[2019-10-11 01:14:43.844] [renderer1] [error] Error: connect ENOENT /home/misha/Documents/PlatformIO/Projects/TorgApp/1.39.0-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1113:14)
+[2019-10-11 01:19:44.358] [renderer1] [error] Error: connect ENOENT /home/misha/Documents/PlatformIO/Projects/TorgApp/1.39.0-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1113:14)
+[2019-10-11 01:24:44.358] [renderer1] [error] Error: connect ENOENT /home/misha/Documents/PlatformIO/Projects/TorgApp/1.39.0-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1113:14)
+[2019-10-11 01:29:44.360] [renderer1] [error] Error: connect ENOENT /home/misha/Documents/PlatformIO/Projects/TorgApp/1.39.0-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1113:14)
+[2019-10-11 01:34:44.361] [renderer1] [error] Error: connect ENOENT /home/misha/Documents/PlatformIO/Projects/TorgApp/1.39.0-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1113:14)
+[2019-10-11 01:39:44.361] [renderer1] [error] Error: connect ENOENT /home/misha/Documents/PlatformIO/Projects/TorgApp/1.39.0-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1113:14)
+[2019-10-11 01:44:44.362] [renderer1] [error] Error: connect ENOENT /home/misha/Documents/PlatformIO/Projects/TorgApp/1.39.0-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1113:14)
+[2019-10-11 01:49:44.409] [renderer1] [error] Error: connect ENOENT /home/misha/Documents/PlatformIO/Projects/TorgApp/1.39.0-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1113:14)
+[2019-10-11 01:54:44.410] [renderer1] [error] Error: connect ENOENT /home/misha/Documents/PlatformIO/Projects/TorgApp/1.39.0-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1113:14)
+[2019-10-11 01:59:44.411] [renderer1] [error] Error: connect ENOENT /home/misha/Documents/PlatformIO/Projects/TorgApp/1.39.0-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1113:14)
+[2019-10-11 02:04:44.412] [renderer1] [error] Error: connect ENOENT /home/misha/Documents/PlatformIO/Projects/TorgApp/1.39.0-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1113:14)
+[2019-10-11 02:09:44.415] [renderer1] [error] Error: connect ENOENT /home/misha/Documents/PlatformIO/Projects/TorgApp/1.39.0-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1113:14)
+[2019-10-11 02:14:44.416] [renderer1] [error] Error: connect ENOENT /home/misha/Documents/PlatformIO/Projects/TorgApp/1.39.0-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1113:14)
+[2019-10-11 02:19:44.417] [renderer1] [error] Error: connect ENOENT /home/misha/Documents/PlatformIO/Projects/TorgApp/1.39.0-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1113:14)
+[2019-10-11 02:24:44.418] [renderer1] [error] Error: connect ENOENT /home/misha/Documents/PlatformIO/Projects/TorgApp/1.39.0-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1113:14)
+[2019-10-11 02:29:44.419] [renderer1] [error] Error: connect ENOENT /home/misha/Documents/PlatformIO/Projects/TorgApp/1.39.0-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1113:14)
+[2019-10-11 02:34:44.420] [renderer1] [error] Error: connect ENOENT /home/misha/Documents/PlatformIO/Projects/TorgApp/1.39.0-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1113:14)
+[2019-10-11 10:39:55.315] [renderer1] [error] Error: connect ENOENT /home/misha/Documents/PlatformIO/Projects/TorgApp/1.39.0-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1113:14)
+[2019-10-11 10:44:55.316] [renderer1] [error] Error: connect ENOENT /home/misha/Documents/PlatformIO/Projects/TorgApp/1.39.0-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1113:14)
+[2019-10-11 10:49:55.317] [renderer1] [error] Error: connect ENOENT /home/misha/Documents/PlatformIO/Projects/TorgApp/1.39.0-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1113:14)
+[2019-10-11 10:54:55.318] [renderer1] [error] Error: connect ENOENT /home/misha/Documents/PlatformIO/Projects/TorgApp/1.39.0-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1113:14)
+[2019-10-11 10:59:55.319] [renderer1] [error] Error: connect ENOENT /home/misha/Documents/PlatformIO/Projects/TorgApp/1.39.0-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1113:14)
+[2019-10-11 11:04:55.320] [renderer1] [error] Error: connect ENOENT /home/misha/Documents/PlatformIO/Projects/TorgApp/1.39.0-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1113:14)
+[2019-10-11 11:09:55.320] [renderer1] [error] Error: connect ENOENT /home/misha/Documents/PlatformIO/Projects/TorgApp/1.39.0-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1113:14)
+[2019-10-11 11:14:55.923] [renderer1] [error] Error: connect ENOENT /home/misha/Documents/PlatformIO/Projects/TorgApp/1.39.0-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1113:14)
+[2019-10-11 11:19:55.926] [renderer1] [error] Error: connect ENOENT /home/misha/Documents/PlatformIO/Projects/TorgApp/1.39.0-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1113:14)
+[2019-10-11 11:24:55.926] [renderer1] [error] Error: connect ENOENT /home/misha/Documents/PlatformIO/Projects/TorgApp/1.39.0-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1113:14)
+[2019-10-11 11:29:55.927] [renderer1] [error] Error: connect ENOENT /home/misha/Documents/PlatformIO/Projects/TorgApp/1.39.0-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1113:14)
+[2019-10-11 11:34:55.928] [renderer1] [error] Error: connect ENOENT /home/misha/Documents/PlatformIO/Projects/TorgApp/1.39.0-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1113:14)
+[2019-10-11 11:39:55.928] [renderer1] [error] Error: connect ENOENT /home/misha/Documents/PlatformIO/Projects/TorgApp/1.39.0-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1113:14)
+[2019-10-11 11:44:55.929] [renderer1] [error] Error: connect ENOENT /home/misha/Documents/PlatformIO/Projects/TorgApp/1.39.0-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1113:14)
+[2019-10-11 11:49:55.931] [renderer1] [error] Error: connect ENOENT /home/misha/Documents/PlatformIO/Projects/TorgApp/1.39.0-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1113:14)
+[2019-10-11 11:54:55.932] [renderer1] [error] Error: connect ENOENT /home/misha/Documents/PlatformIO/Projects/TorgApp/1.39.0-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1113:14)
+[2019-10-11 11:59:55.933] [renderer1] [error] Error: connect ENOENT /home/misha/Documents/PlatformIO/Projects/TorgApp/1.39.0-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1113:14)
+[2019-10-11 12:04:55.934] [renderer1] [error] Error: connect ENOENT /home/misha/Documents/PlatformIO/Projects/TorgApp/1.39.0-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1113:14)
+[2019-10-11 12:09:55.936] [renderer1] [error] Error: connect ENOENT /home/misha/Documents/PlatformIO/Projects/TorgApp/1.39.0-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1113:14)
+[2019-10-11 12:14:55.936] [renderer1] [error] Error: connect ENOENT /home/misha/Documents/PlatformIO/Projects/TorgApp/1.39.0-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1113:14)
+[2019-10-11 12:19:55.937] [renderer1] [error] Error: connect ENOENT /home/misha/Documents/PlatformIO/Projects/TorgApp/1.39.0-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1113:14)
+[2019-10-11 12:24:55.938] [renderer1] [error] Error: connect ENOENT /home/misha/Documents/PlatformIO/Projects/TorgApp/1.39.0-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1113:14)
+[2019-10-11 12:29:55.939] [renderer1] [error] Error: connect ENOENT /home/misha/Documents/PlatformIO/Projects/TorgApp/1.39.0-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1113:14)
+[2019-10-11 12:34:55.940] [renderer1] [error] Error: connect ENOENT /home/misha/Documents/PlatformIO/Projects/TorgApp/1.39.0-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1113:14)
+[2019-10-11 12:39:55.942] [renderer1] [error] Error: connect ENOENT /home/misha/Documents/PlatformIO/Projects/TorgApp/1.39.0-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1113:14)
+[2019-10-11 12:44:55.943] [renderer1] [error] Error: connect ENOENT /home/misha/Documents/PlatformIO/Projects/TorgApp/1.39.0-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1113:14)
+[2019-10-11 12:49:55.944] [renderer1] [error] Error: connect ENOENT /home/misha/Documents/PlatformIO/Projects/TorgApp/1.39.0-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1113:14)
+[2019-10-11 14:04:02.717] [renderer1] [error] Error: connect ENOENT /home/misha/Documents/PlatformIO/Projects/TorgApp/1.39.0-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1113:14)
+[2019-10-11 14:09:02.718] [renderer1] [error] Error: connect ENOENT /home/misha/Documents/PlatformIO/Projects/TorgApp/1.39.0-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1113:14)
+[2019-10-11 14:14:02.723] [renderer1] [error] Error: connect ENOENT /home/misha/Documents/PlatformIO/Projects/TorgApp/1.39.0-shared.sock
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1113:14)
